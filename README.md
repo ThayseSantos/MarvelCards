@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://imgur.com/3QPjr3H.gif">
 </p>
-<p align="justify">Repositório dedicado a demonstrar, de uma forma divertida, algumas personagens femininas da Marvel que facilmente derrotariam Thanos em Guerra Infinita. O projeto foi ministrado pelo canal Going-To Internet, por vídeos no youtube, e modificado através da minha proposta, com o intuito de aprimorar conceitos de Javascript e CSS.
+<p align="justify">Repositório dedicado a demonstrar, de uma forma divertida, algumas personagens femininas da Marvel que facilmente derrotariam Thanos em Guerra Infinita. O projeto foi ministrado pelo canal Going-To Internet, por vídeos no youtube, e modificado através da minha proposta com o intuito de aprimorar conceitos de Javascript e CSS.
 
 ## 🍃HTML
 - *HTML serve como um escopo, uma linguagem de marcação para direcionar-nos quando formos modificar os elementos contidos nesta com CSS e Javascript. No caso, neste projeto apenas modificamos com a estilização do CSS.*
