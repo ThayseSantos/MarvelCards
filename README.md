@@ -1,6 +1,6 @@
 <h1 align="center"> Marvel Cards : Quem derrotaria Thanos</h1>
 <p align="center">
-<img src="https://imgur.com/wS6mxYk.gif">
+<img src="https://imgur.com/3QPjr3H.gif">
 </p>
 <p align="justify">Repositório dedicado a demonstrar, de uma forma divertida, algumas personagens femininas da Marvel que facilmente derrotariam Thanos em Guerra Infinita. O projeto foi ministrado pelo canal Going-To Internet, por vídeos no youtube, e modificado através da minha proposta com o intuito de aprimorar conceitos de Javascript e CSS.
 
